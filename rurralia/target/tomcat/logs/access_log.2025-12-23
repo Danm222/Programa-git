@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [23/Dec/2025:17:45:04 -0500] "GET /rurralia/registro.html HTTP/1.1" 200 9646 http-bio-8080-exec-1 36
+0:0:0:0:0:0:0:1 - - [23/Dec/2025:17:45:06 -0500] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0

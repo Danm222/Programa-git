@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:11:13:23 -0500] "GET /rurralia/registro.html HTTP/1.1" 200 9365 http-bio-8080-exec-5 117
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:11:13:28 -0500] "GET /rurralia/registro.html HTTP/1.1" 304 - http-bio-8080-exec-7 6
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:11:17:54 -0500] "GET /rurralia/registro.html HTTP/1.1" 200 9458 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:11:17:54 -0500] "GET /rurralia/Image/Vector.png HTTP/1.1" 200 10670 http-bio-8080-exec-9 12
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:11:28:18 -0500] "POST /rurralia/registroUsuario HTTP/1.1" 404 999 http-bio-8080-exec-2 164
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:11:28:35 -0500] "POST /rurralia/registroUsuario HTTP/1.1" 404 999 http-bio-8080-exec-2 1
